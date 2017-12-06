@@ -26,7 +26,7 @@ namespace KinopoiskParser
         [DataMember]
         private string note;
 
-        public FilmEntity( string name, string author, DateTime date, string title, string text,string note)
+        public FilmEntity(string name, string author, DateTime date, string title, string text,string note)
         {
             this.id = g_id++;
             this.name = name;
