@@ -1,0 +1,1 @@
+KinopoiskParser.exe status=bad name=bad
